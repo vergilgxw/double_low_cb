@@ -1,0 +1,7 @@
+*.html
+*~
+*.sw[ap]
+*.png
+.
+.ipynb_checkpoints
+.DS_Store
